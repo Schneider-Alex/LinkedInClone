@@ -10,7 +10,7 @@ function Header() {
       <div className="header_left">
         <img src="" alt=""></img>
         <div className="header_search">
-            {/* SearchIcon*/}
+            <SearchIcon/>
             <input type="text"/>
         </div>
 
