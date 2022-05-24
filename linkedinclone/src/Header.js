@@ -29,7 +29,7 @@ function Header() {
         <HeaderOption Icon={BusinessCenterIcon} title='Jobs'/>
         <HeaderOption Icon={ChatIcon} title='Messaging'/>
         <HeaderOption Icon={NotificationsIcon} title='Notifications'/>
-        <HeaderOption avatar='https://photos.app.goo.gl/qQofxRGcKTVNrkLn8' title='Me'/>
+        <HeaderOption avatar='https://photos.google.com/photo/AF1QipMMbsfmGd3rmqwJJbNah27me7Zx3jgU9ny5PIVB' title='Me'/>
 
 
       </div>
