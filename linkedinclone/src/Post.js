@@ -10,6 +10,7 @@ import SendOutlinedIcon from '@mui/icons-material/SendOutlined';
 
 
 
+
 function Post({name, description, message,photoUrl}) {
   return (
     <div className="post">
